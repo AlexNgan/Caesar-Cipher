@@ -1,4 +1,4 @@
-#Author: Gloria Ngan
+#Author: Mortyyy
 #CaesarCipher.py
 # This is a program designed to recieve input then encrypt it with two
 # Caesar Ciphers, one for the odd chracters and one for even.
